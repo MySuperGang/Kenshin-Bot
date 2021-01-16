@@ -30,7 +30,7 @@ PM_START_TEXT = """
 
 Hello    {}, My Name Is {} !
 
-I Am A Kenshin  Group Manager Bot By [This Person](tg://user?id={}).
+I Am A Kenshin  Group Manager Bot By [This Person](https://t.me/keinshin).
 
 I am a group management bot With Advanced Features.
 
@@ -41,9 +41,6 @@ Hit This --> /help To See my available commands.
  To add me to your group click the below button 👇
 
 
-
--> [Support Group](https://t.me/lightningot)
--> [Support channel](https://t.me/blacklightningot)
  
 
 
